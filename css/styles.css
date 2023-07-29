@@ -100,7 +100,7 @@ button {
 }
 .header-container {
   display: flex;
-  width: 1280px;
+  max-width: 1280px;
   padding-left: 32px;
   padding-right: 32px;
 }
@@ -121,11 +121,11 @@ button {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 118%; /* 21.24px */
+  line-height: 1.18;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
-header-logo-icon {
+.header-logo-icon {
   background: var(--linear-green, linear-gradient(107deg, #BEC7C2 0%, #A1B5BA 100%));
 1x
 }
