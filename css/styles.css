@@ -196,6 +196,7 @@ button {
 }
 .menu-toggle-icon {
   background: var(--color-white);
+  fill: #f6f5ef;
 }
 
 .menu-container {
