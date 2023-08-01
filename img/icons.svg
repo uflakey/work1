@@ -27,13 +27,13 @@
         <symbol id="icon-rent-arrow" viewBox="0 0 64 32">
             <path d="M44.444.604 64 16 44.444 31.396V18.667H0v-5.333h44.444V.605z" />
         </symbol>
-        <symbol id="icon-modal-close" viewBox="0 0 32 32">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.733" d="M24 8 8 24M8 8l16 16" />
-        </symbol>
-        <symbol id="icon-header-burger-menu" viewBox="0 0 32 32">
-            <path
-                d="M2.667 7.993c0-.733.595-1.327 1.327-1.327h10.68a1.326 1.326 0 0 1 0 2.654H3.994a1.326 1.326 0 0 1-1.327-1.327zm0 8.007c0-.733.595-1.327 1.327-1.327h24.013a1.326 1.326 0 0 1 0 2.654H3.994A1.326 1.326 0 0 1 2.667 16zm1.326 6.68a1.326 1.326 0 0 0 0 2.654h16.013a1.326 1.326 0 0 0 0-2.654H3.993z" />
-        </symbol>
+        <symbol id="icon-x" viewBox="0 0 32 32">
+<path fill="none" stroke="#F6F5EF" style="stroke: var(--color1, #F6F5EF)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.7333" d="M24 8l-16 16"></path>
+<path fill="none" stroke="#F6F5EF" style="stroke: var(--color1, #F6F5EF)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.7333" d="M8 8l16 16"></path>
+</symbol>
+        <symbol id="icon-gg_menu-left" viewBox="0 0 32 32">
+<path fill="#F6F5EF" style="fill: var(--color1, #F6F5EF)" d="M2.667 7.993c0-0.733 0.595-1.327 1.327-1.327h10.68c0.352 0 0.689 0.14 0.938 0.389s0.389 0.586 0.389 0.938c0 0.352-0.14 0.689-0.389 0.938s-0.586 0.389-0.938 0.389h-10.68c-0.352 0-0.689-0.14-0.938-0.389s-0.389-0.586-0.389-0.938zM2.667 16c0-0.733 0.595-1.327 1.327-1.327h24.013c0.352 0 0.689 0.14 0.938 0.389s0.389 0.586 0.389 0.938c0 0.352-0.14 0.689-0.389 0.938s-0.586 0.389-0.938 0.389h-24.013c-0.352 0-0.689-0.14-0.938-0.389s-0.389-0.586-0.389-0.938zM3.993 22.68c-0.352 0-0.689 0.14-0.938 0.389s-0.389 0.586-0.389 0.938c0 0.352 0.14 0.689 0.389 0.938s0.586 0.389 0.938 0.389h16.013c0.352 0 0.689-0.14 0.938-0.389s0.389-0.586 0.389-0.938c0-0.352-0.14-0.689-0.389-0.938s-0.586-0.389-0.938-0.389h-16.013z"></path>
+</symbol>
         <symbol id="icon-boat" viewBox="0 0 28 32">
             <path
                 d="M12.972 0.118c-0.132 0.076-0.313 0.236-0.382 0.354-0.132 0.215-0.139 1-0.139 10.799v10.569h1.951l-0.042-21.278-0.25-0.25c-0.313-0.299-0.771-0.375-1.139-0.194z">
