@@ -195,8 +195,7 @@ button {
   }
 }
 .menu-toggle-icon {
-  background: var(--color-white);
-  fill: #f6f5ef;
+  stroke: #f6f5ef;
 }
 
 .menu-container {
@@ -211,7 +210,7 @@ button {
   padding-bottom: 521px;
   padding-left: 156px;
   padding-right: 155px;
-
+  background-color: var(--color-dark-blue);
   z-index: 999;
   transform: translateX(100%);
   transition: transform 250ms ease-in-out;
@@ -228,6 +227,7 @@ button {
   color: #fff;
 }
 .menu-mobile-icon-close {
+  stroke: #f6f5ef;
 }
 
 .mobile-menu-list {
